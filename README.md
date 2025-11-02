@@ -1,9 +1,3 @@
-A Collection of Images
-
-
-
-- Shiny Sprites
-
-- Non Shiny Sprites
-
-- Custom Icons
+## A Collection of Sprites
+* Shiny Sprites
+* Non Shiny Sprites
